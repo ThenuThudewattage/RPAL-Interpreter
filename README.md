@@ -21,3 +21,14 @@ This project is a lexical analyzer, parser, and interpreter for the RPAL program
 **CSE Machine Execution:** The ST is executed using a CSE machine to produce the final output.
 
 **Command-Line Interface:** The program can be run from the command line, with options for different outputs.
+
+#Instructions
+
+To run the interpreter, open terminal from root directory give following commands
+
+I. "make" or "javac myrpal.java" : compile project\
+II. "make run" or "java myrpal test_programs/rpal_test" : run interpreter with rpal_test file\
+III. to get the AST "make run AST=true" or "java myrpal -ast test_programs/rpal_test" : run interpreter to get ast
+III. "make clean" : remove all class files before recompiling
+
+test.rpal and rpal_test files contains same program, test.rpal file was used to verify the functionality of the program
