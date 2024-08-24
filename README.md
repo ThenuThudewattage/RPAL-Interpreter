@@ -22,7 +22,7 @@ This project is a lexical analyzer, parser, and interpreter for the RPAL program
 
 **Command-Line Interface:** The program can be run from the command line, with options for different outputs.
 
-# Instructions
+## Instructions
 
 To run the interpreter, open terminal from root directory give following commands
 
