@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a lexical analyzer, parser, and interpreter for the RPAL (Right-reference Pedagogical Algorithmic Language) programming language, implemented in Java as part of a semester project. The project includes the following components:
+This project is a lexical analyzer, parser, and interpreter for the RPAL programming language, implemented in Java as part of a semester project. The project includes the following components:
 
 **Lexical Analyzer:** Scans the input RPAL program to generate tokens based on the lexical rules specified in the RPAL_Lex.pdf.
 
